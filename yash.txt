@@ -1,1 +1,2 @@
 #yash created file for git. 
+#how to use git command.
